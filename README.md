@@ -31,12 +31,14 @@ Power Query
 
 📷 Dashboard Preview
 
-
+<p align="center">
+  <img src="dashboard2.png" width="700"/>
+</p>
 
 📥 Download Project
 
 Google Drive Link:
-👉 Add your drive link here
+👉 https://drive.google.com/drive/folders/1bYjfCcHvF7Er_Fe4iCVp4il5w4vL4Exw?usp=drive_link
 
 👨‍💻 Author
 
